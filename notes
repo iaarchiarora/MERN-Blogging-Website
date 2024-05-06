@@ -1,0 +1,34 @@
+what i am doing...
+on terminal, write command
+npm create vite@latest   
+npm create vite@latest is a command to create a vite project using the latest version of vite12. Vite is a web development tool that allows fast and efficient development of modern web applications. The command will download the create-vite@latest packages and prompt the user to choose a project name and a template12. The template can be specified as an argument after the project name, such as --template react for a React project2
+
+
+√ Project name: ... client
+√ Select a framework: » React
+√ Select a variant: » JavaScript + SWS
+           //SWC is used to transform your JavaScript/TypeScript code into a format that the browser can understand. It replaces Babel and TypeScript in the build process, handling the transformation of your code.
+cd client,   npm install
+  //npm run dev
+
+
+This link is followed for next steps
+
+https://tailwindcss.com/docs/guides/vite
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+//tailwind.config.js  add content to it.
+
+javascript/typescript
+- src/index.tsx -> main entry point of your application (like index.html in Angular)
+- public/index.html -> HTML template for the app shell
+- public/robots.txt -> custom   
+
+
+after these steps,,,,,,,,
+
+in app.jsx replace content with rfc
+npm run  dev
+
+http://127.0.0.1:5173/  
