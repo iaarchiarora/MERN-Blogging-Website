@@ -32,3 +32,20 @@ in app.jsx replace content with rfc
 npm run  dev
 
 http://127.0.0.1:5173/  
+
+for using git
+cd ..
+git init
+git add .
+git commit -m "install react js and tailwind css"
+
+this link is when you created a repo on git, there you will get steps for pushing project --remote add,branch,push
+git remote add origin https://github.com/iaarchiarora/MERN-Blog.git
+git branch -M main
+git push -u origin main
+
+
+
+
+after creating pages in src...
+npm i react-router-dom   for crating pages
