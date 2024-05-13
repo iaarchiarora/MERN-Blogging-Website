@@ -49,3 +49,14 @@ git push -u origin main
 
 after creating pages in src...
 npm i react-router-dom   for crating pages
+
+
+
+create header Section --- commit and push................................................................
+after that, for backemd using express
+in directory mern blog npm init -y
+and package.json will be created 
+thennn npm i express  in order to creae
+
+
+for running index.js wali cheex just use node api/index.js
