@@ -21,6 +21,7 @@
   "homepage": "https://github.com/iaarchiarora/MERN-Blog#readme",
   "dependencies": {
     "express": "^4.19.2",
+    "mongoose": "^8.3.4",
     "nodemon": "^3.1.0"
   }
 }

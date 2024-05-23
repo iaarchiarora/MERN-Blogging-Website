@@ -53,10 +53,22 @@ npm i react-router-dom   for crating pages
 
 
 create header Section --- commit and push................................................................
-after that, for backemd using express
+after that, 
+CREATE AND RUN THE SERVER
+for backemd using express
 in directory mern blog npm init -y
 and package.json will be created 
 thennn npm i express  in order to creae
 
 
 for running index.js wali cheex just use node api/index.js
+
+npm i nodemon  //load na krne pde server, so modemon  script mie dev
+ "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+
+
+node api/index.js
+
+CONNECT TO DATABASE
+npm i mongoose
